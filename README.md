@@ -37,7 +37,7 @@ A comprehensive real-time drawing application built with vanilla JavaScript and 
 
 1. **Clone or Download**
    ```bash
-   git clone [https://github.com/DGL213-Applied-JavaScript-2025FA-CVS1-I/DGL213-W2-Real-time_Paint_Application.git](https://github.com/DGL213-Applied-JavaScript-2025FA-CVS1-I/dgl213-w2-demo-drawing-app-js.git)
+   git clone https://github.com/DGL213-Applied-JavaScript-2025FA-CVS1-I/dgl213-w2-demo-drawing-app-js.git
    cd docs
    ```
 
